@@ -1,12 +1,12 @@
 {
-    "name": "YuriYamsh/Simple",
+    "name": "yuri-yamsh/simple",
     "type": "library",
     "description": "Simple package",
     "keywords": [
         "YuriYamsh",
         "Simple"
     ],
-    "homepage": "https://github.com/YuriYamsh/Simple",
+    "homepage": "https://github.com/yuri-yamsh/simple",
     "license": "MIT",
     "authors": [
         {

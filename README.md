@@ -32,7 +32,7 @@ vendor/
 Via Composer
 
 ``` bash
-$ composer require YuriYamsh/Simple
+$ composer require yuri-yamsh/simple
 ```
 
 ## Usage
@@ -69,17 +69,17 @@ If you discover any security related issues, please email lawyur@mail.ru instead
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/YuriYamsh/Simple.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/yuri-yamsh/simple.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/YuriYamsh/Simple/master.svg?style=flat-square
-[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/YuriYamsh/Simple.svg?style=flat-square
-[ico-code-quality]: https://img.shields.io/scrutinizer/g/YuriYamsh/Simple.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/YuriYamsh/Simple.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/yuri-yamsh/simple/master.svg?style=flat-square
+[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/yuri-yamsh/simple.svg?style=flat-square
+[ico-code-quality]: https://img.shields.io/scrutinizer/g/yuri-yamsh/simple.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/yuri-yamsh/simple.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/YuriYamsh/Simple
-[link-travis]: https://travis-ci.org/YuriYamsh/Simple
-[link-scrutinizer]: https://scrutinizer-ci.com/g/YuriYamsh/Simple/code-structure
-[link-code-quality]: https://scrutinizer-ci.com/g/YuriYamsh/Simple
-[link-downloads]: https://packagist.org/packages/YuriYamsh/Simple
+[link-packagist]: https://packagist.org/packages/yuri-yamsh/simple
+[link-travis]: https://travis-ci.org/yuri-yamsh/simple
+[link-scrutinizer]: https://scrutinizer-ci.com/g/yuri-yamsh/simple/code-structure
+[link-code-quality]: https://scrutinizer-ci.com/g/yuri-yamsh/simple
+[link-downloads]: https://packagist.org/packages/yuri-yamsh/simple
 [link-author]: https://github.com/YuriYamsh
 [link-contributors]: ../../contributors
